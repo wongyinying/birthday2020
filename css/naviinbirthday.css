@@ -1,0 +1,50 @@
+h1 { 
+  font-family: 'Red Rose', cursive;
+  color: #ffffff;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 10px 10px 10px #222;
+
+}
+
+a {
+	color: #FFFFE0;
+}
+
+body {
+  background-color: #00172D;
+}
+
+p {
+	color: #ffffff;
+	font-size: 20px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center
+}
+
+ .container 
+ { 
+ margin-left: 20px; margin-right: 20px;
+  }
+
+
+img 
+ {
+ top: 500px;
+ left: 400px;
+ height: 300px;
+ width: auto;}
+
+
+
+
+
+
+
+
+
+
+
